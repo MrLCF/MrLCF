@@ -16,7 +16,7 @@ Security Architect • Cloud & Identity Specialist • Future Enterprise Archite
 ## 🌱 Open Source & Community  
 - Exploring contributions in **Azure Bicep** & **cloud-native security tooling**  
 - Writing playbooks for IAM transformations & AI security best practices  
-- Active learner: SABSA, TOGAF, CISM in-progress  
+- Active learner: SABSA, TOGAF, CISM 
 
 ---
 
